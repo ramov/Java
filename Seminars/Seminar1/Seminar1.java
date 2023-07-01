@@ -11,7 +11,7 @@ import javax.print.StreamPrintServiceFactory;
 
 // public class Seminar1 {
 //     public static void main(String[] args) {
-//         System.out.println("What is you name?");
+//         System.out.println("What's your name?");
 //         Scanner sc = new Scanner(System.in);
 //         String name = sc.nextLine();
 //         sc.close();
