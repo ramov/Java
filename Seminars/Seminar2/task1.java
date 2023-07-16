@@ -28,7 +28,7 @@ public class task1 {
         sc.close();
     }
 
-    public static void symbol(int n, char c1, char c2) {
+    static void symbol(int n, char c1, char c2) {
         StringBuilder sb = new StringBuilder(); 
         for (int i = 0; i < n/2; i++) {
             sb.append(c1).append(c2);

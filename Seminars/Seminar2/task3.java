@@ -22,7 +22,7 @@ public class task3 {
             System.out.println("Получилось!)))");   
              
         } catch (Exception e) {
-                System.out.println("Что-то пошло не так");
+            System.out.println("Что-то пошло не так");
 
         }  
         try {
